@@ -21,6 +21,6 @@ You furthermore can extract the Datasets I used from the Dataset.rar file within
 The Author of this Notebook is the GitHub User MDKrain, usage for own interests of my files is granted.
 
 ## Acknowledgements
-I would like to thank Udacity for giving an introduction into the topics needed to create this repositories content, as well as Stackoverflow for making the poll data openly accessible for usage.
+I would like to thank Udacity for giving an introduction into the topics needed to create this repositories content, as well as Stackoverflow/Kaggle for making the poll data openly accessible for usage.
 
 
