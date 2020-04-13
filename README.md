@@ -7,9 +7,15 @@ Further Notebook-external dependencies are non existant and hence will not be co
 
 # File Descriptions
 
+Dataset.rar: compressed folder with the Dataset used for this analysis in .csv format, as well as a description of the questions behind the given columns.
+
+Udacity_Create_a_Blogpost.ipynb: Jupyter Noptebook in Python, that was used for analysing the dataset using the process of CRISP-DM.
+
 # How to interact with the repositories content
 
 For further working on the Jupyter Notebook, you can either download it and work locally with it, or use the Python Notebook from within the online version of [Jupyter](https://jupyter.org/try).
+
+You furthermore can extract the Datasets I used from the Dataset.rar file within this repository.
 
 ## Author
 The Author of this Notebook is the GitHub User MDKrain, usage for own interests of my files is granted.
