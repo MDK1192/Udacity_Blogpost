@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+# Project Motivation
+The motivation of this project is based on a Udacity-Nanodegree project. Task is to write a Blogpost on the results of a Datamining 
+
+# Installations
+This project was initialized in a Jupyter Notebook using Python 3. Dependencies are implemented within the Notebook itself. 
+Further Notebook-external dependencies are non existant and hence will not be covered.
+
+# File Descriptions
+# How to interact with the repositories content
+# Others
+## Author
+## Acknowledgements
+
+
+
 
 You can use the [editor on GitHub](https://github.com/MDKrain/Udacity_Blogpost/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
