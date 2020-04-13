@@ -1,5 +1,5 @@
 # Project Motivation
-The motivation of this project is based on a Udacity-Nanodegree project. Task is to write a Blogpost on the results of a Datamining 
+The motivation of this project is based on a Udacity-Nanodegree project. Task is to write a Blogpost on the results of a Datamining process. In my case I choose the Cross Industry Standart Process for Data Mining (CRISP-DM). Furthermore, I choose a Dataset which contains poll-data from Stackoverflow users form 2017. The general goal behind my analysis is to characterize the average user of Stackoverflow using most frequent observation of features that give insights to the persona.
 
 # Installations
 This project was initialized in a Jupyter Notebook using Python 3. Dependencies are implemented within the Notebook itself. 
